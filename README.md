@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-Dicoding seru!
+Dicoding seru!<br>
+Belajar di Dicoding banyak manfaatnya!<br>
